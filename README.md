@@ -17,3 +17,5 @@ Please help them with a Python script, that would parse an Excel file and retrie
 #excel sheet 
 
 https://docs.google.com/spreadsheets/d/1TBnCR8jep5v1WAQ-rvNcg-9xAa5RCSYa/edit?usp=sharing&ouid=101858103289888384389&rtpof=true&sd=true
+
+![image](https://github.com/user-attachments/assets/6995b14b-6264-4629-bca3-98756fa46d3c)
